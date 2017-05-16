@@ -1,0 +1,14 @@
+{
+  "name": "cloudenabler-test-command",
+  "version": "1.0.0",
+  "description": "Shell commands to generate test environment quickly (by CloudEnabler API)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chad Hsu",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.75.0"
+  }
+}
